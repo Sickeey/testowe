@@ -9,3 +9,4 @@ RUN apt-get install -y tcpdump
 RUN apt-get install -y lsof
 RUN apt-get install -y sysstat
 RUN apt-get install -y htop
+RUN apt-get install -y nano
